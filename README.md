@@ -1,6 +1,6 @@
 # Data-Mining
 
-One of my personal projects to build up my skills on data science and machine learning
+One of my own projects to build up my skills on data science and machine learning. It's not complete yet. I'll work on doing a table join next.
 
 1. Data Mining
 
